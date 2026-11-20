@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/admin/stats/route": "app/api/admin/stats/route.js",
+  "/api/admin/change-password/route": "app/api/admin/change-password/route.js",
+  "/admin/page": "app/admin/page.js",
+  "/api/admin/users/route": "app/api/admin/users/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/api/auth/logout/route": "app/api/auth/logout/route.js",
+  "/api/character/route": "app/api/character/route.js",
+  "/api/auth/register/route": "app/api/auth/register/route.js",
+  "/api/game/learning/submit/route": "app/api/game/learning/submit/route.js",
+  "/api/game/action/route": "app/api/game/action/route.js",
+  "/api/character/[id]/route": "app/api/character/[id]/route.js",
+  "/game/page": "app/game/page.js",
+  "/character-create/page": "app/character-create/page.js",
+  "/login/page": "app/login/page.js",
+  "/character-select/page": "app/character-select/page.js",
+  "/api/game/save/route": "app/api/game/save/route.js",
+  "/api/realtime/auth/route": "app/api/realtime/auth/route.js",
+  "/page": "app/page.js",
+  "/register/page": "app/register/page.js"
+}
